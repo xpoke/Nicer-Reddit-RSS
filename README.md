@@ -1,4 +1,4 @@
-# Nicer-Reddit-RSS
+# Nicer Reddit RSS
 Simple server to fetch, parse and return reddit RSS feeds, making a user friendly experience
 
 ## What is this
