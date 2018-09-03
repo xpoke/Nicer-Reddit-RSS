@@ -7,7 +7,7 @@ This python 3 script sets up a server that listens for rss requests and passes t
 ## Who is this for
 If you are using a cloud based RSS reader like Feedly or Inoreader to get your Reddit homepage, or if you just want a nicer reddit feed. This is also a good start for people who want to make their own modifications.
 
-## Features:
+## Features
 * Proxy for reddit feeds (to bypass content refresh limits)
 * Images and gifs are shown directly in the feed
 * Self posts have a reddit icon (for thumbnails)
