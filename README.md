@@ -9,7 +9,7 @@ If you are using a cloud based RSS reader like Feedly or Inoreader to get your R
 
 ## Features:
 * Proxy for reddit feeds (to bypass content refresh limits)
-* Images and gifs are shown inline in the feed
+* Images and gifs are shown directly in the feed
 * Self posts have a reddit icon (for thumbnails)
 * Content links are visible and domain is highlighted
 * Moved the links around for consistency, and easier time on touch interfaces
