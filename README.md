@@ -23,6 +23,7 @@ If you are using a cloud based RSS reader like Feedly or Inoreader to get your R
        └─ lxml
 
 You'll want to set up an AWS server, raspberry pi, etc - as long as it has a static ip
+
 Install the python3 packages via pip
 
 ## Usage
