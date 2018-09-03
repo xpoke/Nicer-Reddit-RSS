@@ -31,7 +31,7 @@ Run the server:
 
     python3 main.py
 
-By default it will listen on port 8080. Modify the source to change this or other defaults.
+By default it will listen on port 8080. Modify the source's start to change this or other defaults.
 
 Use a url that looks like this:
 
@@ -39,7 +39,8 @@ Use a url that looks like this:
     http://ip:8080/?limit=10
     http://ip:8080/?feed=cad769dfgbjhlk64kljhv7q&user=gallowboob&limit=20
 
-This script currently only supports the feed, user and limit parameters.
+This script currently only supports the "feed", "user" and "limit" parameters.
+
 You can get the parameters for the request from your own reddit profile: www.reddit.com/prefs/feeds
 
 ## Preview
