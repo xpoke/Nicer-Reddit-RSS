@@ -48,4 +48,5 @@ https://raw.githubusercontent.com/xPoke/Nicer-Reddit-RSS/master/preview.png
 
 ## Credits
 Original skeleton based on github.com/therippa/kaRdaSShian
+
 Idea for inline photos is from www.inline-reddit.com
