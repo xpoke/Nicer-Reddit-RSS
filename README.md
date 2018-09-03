@@ -24,7 +24,7 @@ If you are using a cloud based RSS reader like Feedly or Inoreader to get your R
 
 You'll want to set up an AWS server, raspberry pi, etc - as long as it has a static ip
 
-Install the python3 packages via pip
+Install the python3 packages with pip
 
 ## Usage
 Run the server:
@@ -39,7 +39,7 @@ Use a url that looks like this:
     http://ip:8080/?limit=10
     http://ip:8080/?feed=cad769dfgbjhlk64kljhv7q&user=gallowboob&limit=20
 
-This script current only supports the feed, user and limit parameters.
+This script currently only supports the feed, user and limit parameters.
 You can get the parameters for the request from your own reddit profile: www.reddit.com/prefs/feeds
 
 ## Preview
