@@ -43,9 +43,6 @@ This script currently only supports the "feed", "user" and "limit" parameters.
 
 You can get the parameters for the request from your own reddit profile: www.reddit.com/prefs/feeds
 
-## Preview
-https://raw.githubusercontent.com/xPoke/Nicer-Reddit-RSS/master/preview.png
-
 ## Credits
 Original skeleton based on github.com/therippa/kaRdaSShian
 
