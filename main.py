@@ -133,7 +133,7 @@ def main():
 
                 # Strip protocols
                 _, purl = purl.split('://', 1)
-                if purl.startswith('www.'): purl = purl[len('www'):]
+                if purl.startswith('www.'): purl = purl[len('www.'):]
 
                 # Split url to parts (subdomain, domain, filename)
                 if '/' in purl: 
