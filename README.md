@@ -29,7 +29,7 @@ Run the server:
 
     python3 main.py
 
-By default it will listen on port 8080
+By default it will listen on port 8080. Modify the source to change this or other defaults.
 
 Use a url that looks like this:
 
